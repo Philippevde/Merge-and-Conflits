@@ -1,2 +1,2 @@
 # Merge-and-Conflits
-REMOTE
+LOCAL
